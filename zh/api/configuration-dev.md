@@ -23,6 +23,8 @@ module.exports = {
 }
 ```
 
+/*新版本的模版中没有这个文件server.js*/
+
 在 `server.js` 中：
 ```js
 const Nuxt = require('nuxt')
